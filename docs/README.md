@@ -37,4 +37,4 @@ A través de materiales interactivos, narrativas digitales y recursos multimedia
 
 # 🚀 Comenzar
 
-👉 [Ir a la introducción](01-introduccion/01-01.leccion.md)
+👉 [Ir a la introducción](https://margerar.github.io/mi-curso-elemex/01-introduccion/01-01.leccion.md)
