@@ -66,4 +66,4 @@ Responde brevemente:
 
 # 🚀 Continuar
 
-👉 [Volver al módulo de comida](../comida.md)
+👉 [Volver al módulo de comida](../05-01.comida.md)
