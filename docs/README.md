@@ -8,7 +8,7 @@
 
 Bienvenido/a a *Mi intercambio en México*, un curso digital diseñado para estudiantes de español como lengua extranjera (ELE) de nivel A1-A2.
 
-A través de materiales interactivos, narrativas digitales y recursos multimedia, aprenderás expresiones mexicanas, situaciones cotidianas y vocabulario útil para desenvolverte durante un intercambio académico en México.
+A través de materiales interactivos, narrativas digitales y recursos multimedia, aprenderás expresiones mexicanas, situaciones cotidianas y vocabulario útil para desenvolverte durante un intercambio.
 
 ---
 
@@ -37,4 +37,4 @@ A través de materiales interactivos, narrativas digitales y recursos multimedia
 
 # 🚀 Comenzar
 
-👉 [Ir a la introducción](https://margerar.github.io/mi-curso-elemex/01-introduccion/01-01.leccion.md)
+👉 [Ir a la introducción](/01-introduccion/01-01.leccion.md)
