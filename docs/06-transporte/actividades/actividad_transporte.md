@@ -23,7 +23,7 @@ Responde:
 | ¿Qué transporte puedes tomar para llegar a la universidad? | |
 | ¿Dónde puedes preguntar información? | |
 | ¿Qué frase puedes usar para pedir ayuda? | |
-| ¿Qué significa “bajo en la siguiente”? | |
+| ¿Qué significa "bajo en la siguiente"? | |
 
 ---
 
@@ -99,4 +99,4 @@ Responde brevemente:
 
 # 🚀 Volver
 
-👉 [Volver al módulo de transporte](../transporte.md)
+👉 [Volver al módulo de transporte](../06-01.transporte.md)
